@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Retrofittest</string>
+    <string name="address">https://api.odcloud.kr/api/</string>
+    <string name="Key">mYJnnaSV8vTjTzk8FpJeJcE8Eq7OfZL2VV8YmzJZK2aUqVBIe1Od3ElrDDOs7SyakO9rSdC0Fy8afVjuV2Ft1g==</string>
+</resources>
